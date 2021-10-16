@@ -1,4 +1,4 @@
-# Unity-Rotation-GameObjects-at-User-Input-on-all-axis
+# Unity-Rotation-GameObjects-at-User-Input-on-all-Axis
 
 The objective of this homework is to give you a hands-on approach to the Unity IDE, and the basics of creating scenes, GameObjects and C# code.
 
